@@ -9,7 +9,7 @@ import java.awt.event.*;
  * User: Gehaimrat
  * Date: 14.08.13
  * Time: 22:19
- * JKeyLogger simple implementaion for screencasts and presentations.
+ * JKeyLogger is simple implementaion keypressedshower for screencasts and presentations.
  */
 public class JKeyLogger extends JFrame {
     public JKeyLogger(){
